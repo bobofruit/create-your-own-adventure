@@ -1,5 +1,7 @@
 Zew przygody wzywa cię. Czujesz, że musisz się wydostać z tego pokoju. 
 Rozglądasz się po pokoju w poszukiwaniu wyjścia. Jednak wyjścia nie ma.
+a
+a
 
 Co robisz?
 
